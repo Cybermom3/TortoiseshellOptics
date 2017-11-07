@@ -137,3 +137,17 @@ text-align:center;
   padding: 4rem 1rem 4rem 4rem;
 
 }
+@media only screen and (max-width 1024px){
+  .container {}
+    max-width:100%;
+  }
+  .headline {
+    padding:0.75rem 4rem;
+    font-size: 1.33rem;
+    margin-top:5rem;
+    margin-right:2rem;
+  }
+  header {
+    height:22rem;
+  }
+}
